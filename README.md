@@ -1,3 +1,3 @@
-# rbouadjenek.github.io
+# imranrazzak.github.io
 My personal homepage
-https://rbouadjenek.github.io/
+https://imranrazzak.github.io/
