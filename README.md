@@ -1,3 +1,3 @@
-# imranrazzak.github.io
+# imran.github.io
 My personal homepage
-https://imranrazzak.github.io/
+https://imran.github.io/
